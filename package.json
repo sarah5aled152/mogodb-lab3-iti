@@ -1,0 +1,17 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "author": "sarah khaled",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.12.0"
+  }
+}
